@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   13201012022
 
-Student Name      :   < Your good name >
+Student Name      :   Parul Singh
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Credit Card Approval Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1_9lSsnu0y5Yw4Rd3veGcJgYgyF2uOBio#scrollTo=npdIAUNaJhO2
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The dataset contains information related to various attributes and features of credit card applications, along with a binary label indicating the approval status (approved or not approved). The classification analysis aims to explore the relationship between the independent variables (such as income, age, credit history, employment status, etc.) and the dependent variable (credit card approval) to build a predictive model.
